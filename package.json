@@ -19,10 +19,15 @@
     "cocoapod"
   ],
   "author": "Rebecca Hughes <rebecca@learnium.net> (https://github.com/rebeccahughes)",
-  "contributors": [{
-    "name": "Gant Laborde",
-    "email": "gant@infinite.red",
-    "url": "https://github.com/gantman"
-  }],
-  "license": "MIT"
+  "contributors": [
+    {
+      "name": "Gant Laborde",
+      "email": "gant@infinite.red",
+      "url": "https://github.com/gantman"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "^0.46.0"
+  }
 }

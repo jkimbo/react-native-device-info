@@ -46,3 +46,10 @@ DerivedData
 .idea/vcs.xml
 
 .idea/workspace.xml
+
+# Android/IJ
+#
+.idea
+.gradle
+local.properties
+build
